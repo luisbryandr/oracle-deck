@@ -51,3 +51,12 @@ export default function OracleDeckApp() {
     </div>
   );
 }
+// This is a simple Oracle Deck app that allows users to draw a card from a sample deck.
+// The drawn card is displayed with a title, content, and tags.
+// The app uses Framer Motion for animation and Tailwind CSS for styling.
+// The sample deck contains a few example cards, and you can add more cards to the array.
+// The drawCard function randomly selects a card from the sample deck and updates the state.
+// The drawn card is displayed in a card component with a fade-in animation.
+// The app is styled with a gradient background and responsive design.
+// You can customize the card content, styles, and animations as needed.
+// The app is designed to be simple and user-friendly, allowing users to easily draw and view cards.
