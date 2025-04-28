@@ -60,3 +60,14 @@ export default function OracleDeckApp() {
 // The app is styled with a gradient background and responsive design.
 // You can customize the card content, styles, and animations as needed.
 // The app is designed to be simple and user-friendly, allowing users to easily draw and view cards.
+// The app can be further enhanced with features like saving favorite cards, sharing cards, or adding more complex animations.
+// You can also integrate it with a backend to fetch cards dynamically or store user preferences.
+// The app is a great starting point for building a more complex oracle deck application.
+// You can also consider adding features like card history, user profiles, or daily draws.
+// The app is built using React and can be easily extended with additional features.
+// The app is designed to be modular and maintainable, making it easy to add new features or modify existing ones.
+// The app is a fun and interactive way to explore oracle cards and their meanings.
+// The app can be used for personal reflection, meditation, or as a tool for guidance.
+// The app is a great way to engage with oracle cards and explore their meanings.
+// The app can be used for personal growth, self-discovery, or as a creative tool.  
+// adding more notes to keep touching the code and my editor
