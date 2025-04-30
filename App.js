@@ -71,3 +71,4 @@ export default function OracleDeckApp() {
 // The app is a great way to engage with oracle cards and explore their meanings.
 // The app can be used for personal growth, self-discovery, or as a creative tool.  
 // adding more notes to keep touching the code and my editor
+//still just touching the editor, getting back into the groove
