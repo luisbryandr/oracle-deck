@@ -72,3 +72,6 @@ export default function OracleDeckApp() {
 // The app can be used for personal growth, self-discovery, or as a creative tool.  
 // adding more notes to keep touching the code and my editor
 //still just touching the editor, getting back into the groove
+
+// 4/30/2025 i can see the light at the end of the tunnel, I am organizing my life and getting back into the groove of things. I am excited to see where this journey takes me. I am grateful for the support of my friends and family, and I am ready to take on new challenges and opportunities. I am looking forward to the future and all the possibilities it holds.
+// I have gotten organized as far as my income and personal responsibilities and desires go for the next month. I am excited to hit the ground running tomorrow morning as the official start of my new month. I am ready to get back into the groove of things and make the most of this opportunity. Next commit will be some code and possibly even a live site/MVP.
