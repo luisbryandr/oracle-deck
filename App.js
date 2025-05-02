@@ -15,6 +15,21 @@ const sampleDeck = [
     content: "Your essence is divine. Return to your center.",
     tags: ["Identity", "Divine"]
   },
+  {
+    title: "Embrace Change",
+    content: "Change is the only constant. Flow with it.",
+    tags: ["Change", "Adaptability"]
+  },
+  {
+    title: "Seek Clarity",
+    content: "In confusion, seek stillness. Clarity will come.",
+    tags: ["Clarity", "Stillness"]
+  },
+  {
+    title: "Surrender Steven",
+    content: "You cannot beat a river into submission. You must surrender to its current and use its strength.",
+    tags: ["Surrender", "Trust"]
+  }
   // Add more cards here
 ];
 
