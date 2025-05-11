@@ -92,3 +92,5 @@ export default function OracleDeckApp() {
 // I have gotten organized as far as my income and personal responsibilities and desires go for the next month. I am excited to hit the ground running tomorrow morning as the official start of my new month. I am ready to get back into the groove of things and make the most of this opportunity. Next commit will be some code and possibly even a live site/MVP.
 // still didnt go as planned but i have another opportunity this week, starting tomorrow. I was able to recalibrate well today from the working hard all weekend, ridesharing, to get back on track and good sleep schedule. 
 // on my computer for my night shift, expecting another coding commit in an hour or so.
+
+//no code here yet but i have studied a few an hour a day for the last few days so Im making a commit to track that.
